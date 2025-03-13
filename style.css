@@ -37,9 +37,9 @@
 /* code for columns  */
 .wrapper {
 
-	padding: 2em;
+	padding: 1em;
 	width: 95%;
-	margin: 4em auto;
+	margin: 1em auto;
 }
 
 
@@ -516,6 +516,7 @@ section {
 }
 
 .right-text p {
+	
 	font-family: 'Tahoma';
 	letter-spacing: 0.8px;
 }
@@ -671,6 +672,10 @@ section {
 		float:right;
 		width: 50%;
 	}
+/* .text */
+.text-right p {
+	margin-left:-10em;
+}
 
 	
 	.text-right h3 {
