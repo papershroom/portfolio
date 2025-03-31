@@ -423,6 +423,7 @@ input:checked~.slide {
 	position: bottom;
 	display: flex;
 	width: 90%;
+	
 	align-items: center;
 	transition: all 0.2s;
 }
